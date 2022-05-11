@@ -1,0 +1,78 @@
+.container {
+    padding: 2rem 0rem;
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+
+  table, th, td {
+    border: 1px solid;
+    text-align: center;
+    
+  }
+
+  input {
+    width: 80%;
+    height: auto;
+    padding: 8px 8px;
+    // margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid red;
+    border-radius: 4px;
+    font-size: small;
+  }
+  select {
+    border: 2px solid red;
+  }
+
+  address {
+    border: 2px solid red;
+  }
+
+
+  .button-width {
+    min-width: 80px;
+    max-width: 80px;
+  }
+
+  .save-button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: small;
+  }
+  .cancel-button {
+    background-color: #251f80; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: small;
+  }
+  .edit-button {
+    background-color: #251f80; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: small;
+  }
+  .delete-button {
+    background-color: #9c1a1a; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: small;
+  }

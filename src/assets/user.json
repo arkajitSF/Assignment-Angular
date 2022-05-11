@@ -1,0 +1,56 @@
+[
+    {
+        "firstName": "John",
+        "middleName": "",
+        "lastName": "Doe",
+        "email": "jdoe@gmail.com",
+        "phone": "73422222222",
+        "role": "SuperAdmin",
+        "address": "NYC"
+    },
+    {
+        "firstName": "Sam",
+        "middleName": "",
+        "lastName": "Malcohm",
+        "email": "sam.malcohm@gmail.com",
+        "phone": "54444435342",
+        "role": "Admin",
+        "address": "NewYork"
+    },
+    {
+        "firstName": "Mark",
+        "middleName": "Elliot",
+        "lastName": "Zuckerberg",
+        "email": "mark.z@facebook.com",
+        "phone": "1234567890",
+        "role": "Admin",
+        "address": "LA"
+    },
+    {
+        "firstName": "Jeff",
+        "middleName": "S",
+        "lastName": "Bezos",
+        "email": "JBezoz@gmail.com",
+        "phone": "999999999",
+        "role": "Subscriber",
+        "address": "US"
+    },
+    {
+        "firstName": "Mukesh",
+        "middleName": "Dhirubhai",
+        "lastName": "Ambani",
+        "email": "mambani@reliance.com",
+        "phone": "1234567890",
+        "role": "subscriber",
+        "address": "Mumbai"
+    },
+    {
+        "firstName": "Ratan",
+        "middleName": "Naval",
+        "lastName": "Tata",
+        "email": "ratan@tata.com",
+        "phone": "1111111111",
+        "role": "superAdmin",
+        "address": "Mumbai"
+    }
+]
